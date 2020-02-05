@@ -1,0 +1,23 @@
+#iniciar 
+
+/Archivos/conexion.txt
+
+/Archivos/A/Sub 1/Estado/*.html
+
+!/Archivos/A/Sub 1/Estado/feliz.html
+
+*.meta
+
+/Archivos/B/Sub 1/dato 4.zzz
+
+/Archivos/B/Sub 2/Datos/
+
+/Archivos/B/Sub 2/dato 2.zzz
+
+/Archivos/C/Sub 2/Apartado/ordenar.class
+
+
+
+
+
+
